@@ -83,8 +83,8 @@ Mal-Protocol/
 ├── report.py             # JSON and CSV report generation
 ├── tui.py                # Terminal user interface (TUI) with rich/Textual
 │
-├── yara_rules/           # Folder containing your YARA rules files (*.yar)
-│     └── *.yar
+├── rules/                # Folder containing your YARA rules files (*.yar)
+│    └── basic_rules.yar
 │
 ├── config.json           # Config file holding VirusTotal API key and other settings
 │

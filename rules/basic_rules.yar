@@ -1,7 +1,7 @@
 rule Massive_Malicious_Patterns
 {
     meta:
-        author = "ChatGPT"
+        author = "ig.masio"
         description = "Extensive catch-all malicious pattern detection"
         date = "2025-05-23"
         severity = "critical"

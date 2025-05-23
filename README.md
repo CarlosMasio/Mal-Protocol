@@ -44,7 +44,7 @@ source myenv/bin/activate
 ### Step 4: Install Python Dependencies
 
 ```bash
-pip install yara-python python-magic pefile lief capstone rich pycryptodome oletools pyzipper requests
+pip3 install yara-python python-magic pefile lief capstone rich pycryptodome oletools pyzipper requests
 ```
 
 ---

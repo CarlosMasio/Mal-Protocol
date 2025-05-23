@@ -75,14 +75,19 @@ You will receive a human-readable scan output including hash values, YARA detect
 
 ```
 Mal-Protocol/
-├── core_scanner.py       # Main scanner logic
-├── vt_lookup.py          # VirusTotal integration
-├── report.py             # Output report generators
-├── malprotocol.py        # Main CLI script
-├── yara_rules/           # YARA rule files
-├── samples/              # Test files (optional)
-├── README.md             # This file
-└── requirements.txt      # (Optional) pip dependencies
+│
+├── core_scanner.py       # Core deep file scanning logic (YARA, hashing, extraction)
+├── malprotocol.py        # Main CLI launcher tying all modules together
+├── vt_lookup.py          # VirusTotal API integration
+├── report.py             # JSON and CSV report generation
+├── tui.py                # Terminal user interface (TUI) with rich/Textual
+│
+├── yara_rules/           # Folder containing your YARA rules files (*.yar)
+│     └── *.yar
+│
+├── config.json           # Config file holding VirusTotal API key and other settings
+│
+└── README.md             # Project documentation and usage instructions
 ```
 
 ---

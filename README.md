@@ -2,9 +2,9 @@
 
 A terminal-based malware and payload scanner that performs in-depth analysis of all file types. Designed for cybersecurity analysts, researchers, and developers who need detailed insights into potentially malicious files.
 
-![Mal-Protocol Banner](Mal-Protocol.png)
-![report2 Banner](report2.png)
-![report Banner](report.png)
+![Mal-Protocol Banner](1.png)
+![report2 Banner](2.png)
+![report Banner](3.png)
 ---
 
 ## 📚 Features

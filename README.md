@@ -5,6 +5,7 @@ A terminal-based malware and payload scanner that performs in-depth analysis of 
 ![Mal-Protocol Banner](1.png)
 ![report2 Banner](2.png)
 ![report Banner](3.png)
+![Mal-Protocol2 Banner](4.png)
 ---
 
 ## 📚 Features

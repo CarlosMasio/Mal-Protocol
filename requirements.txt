@@ -8,3 +8,4 @@ pycryptodome>=3.20.0
 oletools>=0.60.1
 pyzipper>=0.3.6
 requests>=2.31.0
+watchdog>=4.0.0

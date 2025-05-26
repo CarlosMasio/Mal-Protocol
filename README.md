@@ -96,7 +96,7 @@ Mal-Protocol/
 
 ## 👤 Developed By
 
-**ig.masio**
+**ig.masio** / **ig.darmik**
 GitHub: [https://github.com/CarlosMasio/Mal-Protocol](https://github.com/CarlosMasio/Mal-Protocol)
 
 ---

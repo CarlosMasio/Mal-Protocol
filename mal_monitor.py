@@ -20,7 +20,7 @@ MALICIOUS_PATTERNS = [
 
 def get_malprotocol_path():
     # Hardcoded path as requested
-    return "/k0/Mal-Protocol/malprotocol.py"
+    return "/file/path/to/Mal-Protocol/malprotocol.py"
 
 def scan_and_handle_file(mal_path, file_path):
     print(f"[*] Scanning file: {file_path}")
